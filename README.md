@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mufaddal Jiruwala</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🌱 I’m currently learning **App Dev,Web Dev,Game Dev**
+- 🌱 I’m currently learning **App Dev,Web Dev,Game Dev,Block Chain Technology**
 
 - 🤝 I’m looking for help with **App Development and DSA**
 
